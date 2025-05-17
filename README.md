@@ -63,11 +63,11 @@ print(result,unans)
 ## Output
 ### ping:
 ![WhatsApp Image 2025-05-10 at 12 54 52_81acac92](https://github.com/user-attachments/assets/43696fbb-2d54-41c9-bb36-2eba7fc9dd9d)
-### traceert:
+### tracert:
 ![WhatsApp Image 2025-05-10 at 13 02 41_52070dbc](https://github.com/user-attachments/assets/17228333-d019-42dd-9cea-31522fe7bc5e)
 ### ipconfig:
 ![WhatsApp Image 2025-05-10 at 13 05 01_24e73f74](https://github.com/user-attachments/assets/557e4876-1623-4cdc-ad1b-5ecf0d6c314f)
-### nbstat:
+### nbtstat:
 ![WhatsApp Image 2025-05-10 at 13 05 43_bcdbd263](https://github.com/user-attachments/assets/deb1400d-d9c4-478e-bb79-e5838dadb172)
 ### nslookup:
 ![WhatsApp Image 2025-05-10 at 13 06 14_2ad79785](https://github.com/user-attachments/assets/8598ab14-ed50-4838-a15e-979e6cf98707)
